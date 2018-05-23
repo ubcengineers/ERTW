@@ -1,4 +1,5 @@
 .babelrc
+.out
 lib
 stories
 CODE_OF_CONDUCT.md
